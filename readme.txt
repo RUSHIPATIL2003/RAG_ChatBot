@@ -16,7 +16,7 @@ STEPS TO RUN PROJECT
 
 
 
-note: When you install your dependencies and run script make sure your vertual envirement should start
+note: When you install your dependencies and run script make sure your vertual envirement should activated
 
 
 Use this API Key on "Your_API_Key" : "gsk_jMPkOdXPlUiSFDM7xnRbWGdyb3FYDKPa06wKSN0RG7DJs7JHSKk"
