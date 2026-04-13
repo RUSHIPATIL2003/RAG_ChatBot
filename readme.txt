@@ -6,7 +6,7 @@ STEPS TO RUN PROJECT
 	python -m venv myenv
 
 3. ACTIVATE VERTUAL ENVIREMENT 
-	myenv\scripts\activate
+	myenv\scripts\activate (for windows)
 
 4. INSTALL ALL DEPENDENCIES
 	pip install -r requirements.txt
